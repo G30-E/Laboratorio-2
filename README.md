@@ -26,6 +26,3 @@ Declarar correctamente el tipo de dato de una variable es crucial porque:
 
 Por ejemplo, una variable que almacena un número entero debe declararse como `int`, mientras que si la variable va a almacenar un valor decimal, debe declararse como `float` o `double`.
 
-## Cómo utilizar este archivo README
-
-Este archivo se utiliza para proporcionar información importante sobre el proyecto y responder algunas preguntas clave. Puede editarse para agregar más preguntas y respuestas a medida que se desarrolla el proyecto.
